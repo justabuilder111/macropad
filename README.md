@@ -24,3 +24,4 @@ BOM:
 - 16x Cherry MX switches
 - 16x Cherry MX keycaps
 - 16x CPG151101S11 Kailh hotswap sockets
+- 16x 1N4148 through-hole diodes
